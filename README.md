@@ -7,4 +7,4 @@
 
 Поэтому я сделал своего <a href="https://t.me/Py_mk_bot" target="_blank">бота</a> 
 
-Там очень много всего полезного и интересного, для более подробного изучения добавил <a href="https://github.com/michaelk77/Platform_for_Programming/blob/main/Платформа%20для%20python%20tg.pptx" target="_blank">презинтацию</a> в этот репозиторий
+Там очень много всего полезного и интересного, для более подробного изучения добавил <a href="https://github.com/michaelk77/Platform_for_Programming/blob/main/Платформа%20для%20python%20tg.pptx" target="_blank">презентацию</a> в этот репозиторий
